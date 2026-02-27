@@ -2,14 +2,12 @@ const container = document.getElementById('container');
 const registerBtn = document.getElementById('register');
 const loginBtn = document.getElementById('login');
 
-// UI toggle
+
 registerBtn.addEventListener('click', () => container.classList.add("active"));
 loginBtn.addEventListener('click', () => container.classList.remove("active"));
 
-// ✅ Backend URL
 const BACKEND_URL = "https://login-project-umsm.onrender.com";
 
-// Message boxes
 const registerMessageBox = document.getElementById('registerMessage');
 const loginMessageBox = document.getElementById('loginMessage');
 
