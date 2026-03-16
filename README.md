@@ -13,3 +13,8 @@ The page allows users to enter their username and password to simulate a login i
 - CSS
 - JavaScript
 ## 📂 Project Structure
+project-folder
+│
+├── index.html
+├── style.css
+└── script.js
