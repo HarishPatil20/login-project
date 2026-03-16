@@ -8,3 +8,7 @@ The page allows users to enter their username and password to simulate a login i
 - Username and password input fields
 - Basic form validation
 - Responsive design
+## 🛠️ Technologies Used
+- HTML
+- CSS
+- JavaScript
