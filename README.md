@@ -21,3 +21,7 @@ project-folder
 ## 📸 Screenshot
 (Add your login page screenshot here)
 
+## ⚙️ How to Run the Project
+1. Download or clone the repository
+2. Open the project folder
+3. Open `index.html` in your browser
