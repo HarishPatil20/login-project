@@ -34,3 +34,5 @@ project-folder
 
 ## 👨‍💻 Author
 Harish Patil
+## 📄 License
+This project is created for learning purposes.
