@@ -19,9 +19,9 @@ project-folder
 ├── style.css
 └── script.js
 ## 📸 Screenshot
-#Login Page
+## Login Page
 <img width="1916" height="921" alt="image" src="https://github.com/user-attachments/assets/18a4aab5-fde8-41a0-a4df-436d3716d9c4" />
-#Sign Up Page
+## Sign Up Page
 <img width="1901" height="765" alt="image" src="https://github.com/user-attachments/assets/18683f5f-8318-49b3-a920-74b9046d725c" />
 
 
