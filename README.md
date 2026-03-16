@@ -12,3 +12,4 @@ The page allows users to enter their username and password to simulate a login i
 - HTML
 - CSS
 - JavaScript
+## 📂 Project Structure
