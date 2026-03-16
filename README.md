@@ -31,3 +31,6 @@ project-folder
 - Connect with database
 - Add password encryption
 - Add signup and forgot password feature
+
+## 👨‍💻 Author
+Harish Patil
